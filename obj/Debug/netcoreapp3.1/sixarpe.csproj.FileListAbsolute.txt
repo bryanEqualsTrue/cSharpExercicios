@@ -1,0 +1,14 @@
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\bin\Debug\netcoreapp3.1\sixarpe.exe
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\bin\Debug\netcoreapp3.1\sixarpe.deps.json
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\bin\Debug\netcoreapp3.1\sixarpe.runtimeconfig.json
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\bin\Debug\netcoreapp3.1\sixarpe.runtimeconfig.dev.json
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\bin\Debug\netcoreapp3.1\sixarpe.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\bin\Debug\netcoreapp3.1\sixarpe.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\sixarpe\obj\Debug\netcoreapp3.1\sixarpe.GeneratedMSBuildEditorConfig.editorconfig
